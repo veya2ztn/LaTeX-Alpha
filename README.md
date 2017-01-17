@@ -9,7 +9,7 @@ __LaTeX-Alpha is down until the Wolfram Cloud becomes publicly available! Please
 
 LaTeX-Alpha is a LaTeX package which incorporates the typesetting ease and control of LaTeX with the power of the Wolfram Language. The goal of LaTeX-Alpha is to provide the most complete, powerful and self-sufficient typesetting environment.
 
-** The windows vesion now aviliable, for windows user, please rename the original file 'latexalpha.sty' and make the 'latexalpha-window.sty' to 'latexalpha.sty'**
+__ The windows vesion now aviliable, for windows user, please rename the original file 'latexalpha.sty' and make the 'latexalpha-window.sty' to 'latexalpha.sty'
 
 __Please see LaTeX-Alpha-Demo.pdf for fuller documentation__
 
